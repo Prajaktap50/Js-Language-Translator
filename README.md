@@ -31,7 +31,7 @@ git clone https://github.com/Prajaktap50/Js-Language-Translator.git
 
 ## Demo
 
-For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://github.com/Prajaktap50/Js-Language-Translator)
+For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo]https://prajaktap50.github.io/Js-Language-Translator/
 
 ## Feedback and Contributions
 
@@ -42,5 +42,3 @@ If you find any issues with the application or have suggestions for improvement,
 This language translator web application is developed and maintained by [Prajakta](https://github.com/Prajaktap50/Js-Language-Translator). I am a passionate web developer with a keen interest in building useful and innovative projects using various web technologies.
 
 Thank you for checking out this project! If you find it helpful, don't forget to give it a star and share it with others. Happy translating!
-![Screenshot 2024-09-07 132807](https://github.com/user-attachments/assets/4637df51-0c49-4d33-89df-647d3a07ca9b)
-
